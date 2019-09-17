@@ -2,6 +2,8 @@
 
 Job Hunt is a web application for listing and searching job postings. This is the server side code for the same.
 
+[Click Here](https://github.com/piyush-bhatt/job-hunt) to access the client side code.
+
 ## Pre-Requisites
 
 1. [NodeJS](https://nodejs.org/en/)
