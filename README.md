@@ -1,6 +1,6 @@
 # Job Hunt
 
-Job Hunt is a web application for listing and searching job postings. This is the server side code for the same.
+Job Hunt is a web application for listing and searching job postings. This is the server side code for the same. This repository triggers a build on jenkins on every code push.
 
 [Click Here](https://github.com/piyush-bhatt/job-hunt) to access the client side code.
 
